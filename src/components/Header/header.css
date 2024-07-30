@@ -1,0 +1,41 @@
+.header-ul {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+}
+
+.header-ul a {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 22px;
+  text-align: left;
+  color: #757575;
+}
+.header-btn {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.header-btn-hide {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 22px;
+  text-align: left;
+  border: none;
+  background-color: inherit;
+}
+
+.header-btn-show {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 22px;
+  text-align: left;
+  padding: 10px 18px;
+  padding: 10px 18px 10px 18px;
+  gap: 10px;
+  border-radius: 100px;
+  border: none;
+  background-color: #8bac3e;
+  color: #ffffff;
+}
