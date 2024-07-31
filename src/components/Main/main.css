@@ -1,3 +1,16 @@
-.Main-ul{
-    display: flex;
+.main{
+    margin: 60px;
+
+}
+
+.main-title{
+font-size: 38px;
+font-weight: 500;
+line-height: 50px;
+
+}
+.main-title span{
+    color:#8BAC3E;
+    margin-bottom: 40px;
+
 }
